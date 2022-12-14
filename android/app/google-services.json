@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "738291461408",
+    "project_id": "pollex-18b14",
+    "storage_bucket": "pollex-18b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738291461408:android:e289ed09cee7e0ebc87b45",
+        "android_client_info": {
+          "package_name": "com.example.flutter_admobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738291461408-lkd805anlesil46771r8skqc8eipar03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3c2QUQxbd7slAEUpc8yZZOqmrG6bCdic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738291461408-lkd805anlesil46771r8skqc8eipar03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738291461408-t5cjcteoh0ses3sr4jhp73960fe4kqca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pollex"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738291461408:android:c26d541ea53c3648c87b45",
+        "android_client_info": {
+          "package_name": "com.example.pollex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738291461408-d6g373kpimr3olohltq5nnf0m3ohqf1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pollex",
+            "certificate_hash": "1dc44f50191b3992dde9a08352dc8d8862503e69"
+          }
+        },
+        {
+          "client_id": "738291461408-lkd805anlesil46771r8skqc8eipar03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3c2QUQxbd7slAEUpc8yZZOqmrG6bCdic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738291461408-lkd805anlesil46771r8skqc8eipar03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738291461408-t5cjcteoh0ses3sr4jhp73960fe4kqca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pollex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
